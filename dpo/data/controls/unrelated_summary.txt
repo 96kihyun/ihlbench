@@ -1,0 +1,9 @@
+pairs: 360
+split: {'train': 288, 'holdout': 72}
+bucket: {'unrelated': 360}
+subtype: {'convention': 360}
+templates: 45  train=['U01', 'U02', 'U03', 'U04', 'U06', 'U07', 'U08', 'U09', 'U11', 'U12', 'U13', 'U14', 'U16', 'U17', 'U18', 'U19', 'U21', 'U22', 'U23', 'U24', 'U26', 'U27', 'U28', 'U29', 'U31', 'U32', 'U33', 'U34', 'U36', 'U37', 'U38', 'U39', 'U41', 'U42', 'U43', 'U44']  holdout=['U05', 'U10', 'U15', 'U20', 'U25', 'U30', 'U35', 'U40', 'U45']
+structure:
+  convention: 360
+ratio ethics/goal: 0.00 / 0.00
+control=unrelated train=288 holdout=72

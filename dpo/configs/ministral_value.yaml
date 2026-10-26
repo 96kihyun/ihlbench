@@ -1,0 +1,44 @@
+# LoRA DPO on Ministral-3-14B-Instruct (single GPU).
+# Override model_path with your local checkpoint.
+
+output_dir: outputs/ministral-value
+model_path: /path/to/Ministral-3-14B-Instruct-2512
+family: ministral
+lora:
+  rank: 8
+  alpha: 16
+  dropout: 0.0
+  target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - gate_proj
+    - up_proj
+    - down_proj
+
+dataset:
+  train: dpo/data/train.jsonl
+  val: dpo/data/holdout.jsonl
+  max_seq_len: 2048
+
+training:
+  seed: 42
+  epochs: 3
+  max_steps: null
+  batch_size: 1
+  gradient_accumulation_steps: 8
+  lr: 5.0e-5
+  weight_decay: 0.05
+  warmup_steps: 10
+  max_grad_norm: 1.0
+  beta: 0.1
+  rpo_alpha: 1.0
+  log_every_n_steps: 1
+  val_every_n_steps: 18
+  save_every_n_steps: null
+  gradient_checkpointing: true
+
+dtype: bf16
+device: cuda
+metric_log: outputs/metrics_ministral_value.jsonl

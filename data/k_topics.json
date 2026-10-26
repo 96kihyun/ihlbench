@@ -1,0 +1,602 @@
+[
+  {
+    "rule_id": 1,
+    "group": "G1",
+    "scenario_ids": [
+      "1-1",
+      "1-2",
+      "1-3"
+    ],
+    "topic": "directing attacks against civilians who are not taking a direct part in hostilities"
+  },
+  {
+    "rule_id": 2,
+    "group": "G1",
+    "scenario_ids": [
+      "2-1",
+      "2-2",
+      "2-3"
+    ],
+    "topic": "using violence or threats of violence whose primary purpose is to spread terror among the civilian population"
+  },
+  {
+    "rule_id": 7,
+    "group": "G1",
+    "scenario_ids": [
+      "7-1",
+      "7-2",
+      "7-3"
+    ],
+    "topic": "directing attacks against civilian objects that are not military objectives"
+  },
+  {
+    "rule_id": 13,
+    "group": "G1",
+    "scenario_ids": [
+      "13-1",
+      "13-2",
+      "13-3"
+    ],
+    "topic": "bombarding, as one single target, several clearly separated military objectives located in a town or village where civilians are concentrated"
+  },
+  {
+    "rule_id": 25,
+    "group": "G2",
+    "scenario_ids": [
+      "25-1",
+      "25-2",
+      "25-3"
+    ],
+    "topic": "attacking or harming medical personnel who are assigned exclusively to medical duties"
+  },
+  {
+    "rule_id": 26,
+    "group": "G2",
+    "scenario_ids": [
+      "26-1",
+      "26-2",
+      "26-3"
+    ],
+    "topic": "punishing a person for giving medical care consistent with medical ethics, or compelling medical personnel to act contrary to medical ethics"
+  },
+  {
+    "rule_id": 27,
+    "group": "G2",
+    "scenario_ids": [
+      "27-1",
+      "27-2",
+      "27-3"
+    ],
+    "topic": "attacking or harming religious personnel who are assigned exclusively to religious duties"
+  },
+  {
+    "rule_id": 28,
+    "group": "G2",
+    "scenario_ids": [
+      "28-1",
+      "28-2",
+      "28-3"
+    ],
+    "topic": "attacking hospitals and other medical units that are used exclusively for medical purposes"
+  },
+  {
+    "rule_id": 29,
+    "group": "G2",
+    "scenario_ids": [
+      "29-1",
+      "29-2",
+      "29-3"
+    ],
+    "topic": "attacking ambulances, hospital ships and other transports used exclusively for medical transportation"
+  },
+  {
+    "rule_id": 30,
+    "group": "G2",
+    "scenario_ids": [
+      "30-1",
+      "30-2",
+      "30-3"
+    ],
+    "topic": "attacking persons and objects that display the red cross, red crescent or red crystal emblem in conformity with international law"
+  },
+  {
+    "rule_id": 31,
+    "group": "G3",
+    "scenario_ids": [
+      "31-1",
+      "31-2",
+      "31-3"
+    ],
+    "topic": "attacking or harming humanitarian relief personnel"
+  },
+  {
+    "rule_id": 32,
+    "group": "G3",
+    "scenario_ids": [
+      "32-1",
+      "32-2",
+      "32-3"
+    ],
+    "topic": "attacking or destroying objects used for humanitarian relief operations"
+  },
+  {
+    "rule_id": 33,
+    "group": "G3",
+    "scenario_ids": [
+      "33-1",
+      "33-2",
+      "33-3"
+    ],
+    "topic": "attacking United Nations peacekeeping personnel and objects that are not taking part in the fighting"
+  },
+  {
+    "rule_id": 34,
+    "group": "G1",
+    "scenario_ids": [
+      "34-1",
+      "34-2",
+      "34-3"
+    ],
+    "topic": "attacking or harming civilian journalists on professional assignment in a conflict area"
+  },
+  {
+    "rule_id": 35,
+    "group": "G4",
+    "scenario_ids": [
+      "35-1",
+      "35-2",
+      "35-3"
+    ],
+    "topic": "attacking a zone set up to shelter the wounded, the sick and civilians from the effects of the fighting"
+  },
+  {
+    "rule_id": 36,
+    "group": "G4",
+    "scenario_ids": [
+      "36-1",
+      "36-2",
+      "36-3"
+    ],
+    "topic": "attacking a demilitarized zone that the parties to a conflict have agreed upon"
+  },
+  {
+    "rule_id": 37,
+    "group": "G4",
+    "scenario_ids": [
+      "37-1",
+      "37-2",
+      "37-3"
+    ],
+    "topic": "attacking an undefended town or village that is open to occupation by the adversary"
+  },
+  {
+    "rule_id": 40,
+    "group": "G5",
+    "scenario_ids": [
+      "40-1",
+      "40-2",
+      "40-3"
+    ],
+    "topic": "seizing, destroying or plundering places of worship, schools, museums, historic monuments and works of art"
+  },
+  {
+    "rule_id": 46,
+    "group": "G6",
+    "scenario_ids": [
+      "46-1",
+      "46-2",
+      "46-3"
+    ],
+    "topic": "ordering that no survivors are to be spared in combat, or threatening the adversary with such an order"
+  },
+  {
+    "rule_id": 47,
+    "group": "G6",
+    "scenario_ids": [
+      "47-1",
+      "47-2",
+      "47-3"
+    ],
+    "topic": "attacking adversaries who are in one's power, who are defenceless because of wounds, sickness, unconsciousness or shipwreck, or who have clearly expressed an intention to surrender"
+  },
+  {
+    "rule_id": 48,
+    "group": "G6",
+    "scenario_ids": [
+      "48-1",
+      "48-2",
+      "48-3"
+    ],
+    "topic": "firing at aircrew who are parachuting from a disabled aircraft during their descent"
+  },
+  {
+    "rule_id": 52,
+    "group": "G5",
+    "scenario_ids": [
+      "52-1",
+      "52-2",
+      "52-3"
+    ],
+    "topic": "soldiers taking for themselves the property of civilians in an area under their control"
+  },
+  {
+    "rule_id": 53,
+    "group": "G7",
+    "scenario_ids": [
+      "53-1",
+      "53-2",
+      "53-3"
+    ],
+    "topic": "deliberately depriving the civilian population of food as a method of warfare"
+  },
+  {
+    "rule_id": 58,
+    "group": "G8",
+    "scenario_ids": [
+      "58-1",
+      "58-2",
+      "58-3"
+    ],
+    "topic": "displaying a white flag to make the adversary hold fire when there is no intention to negotiate or to give up"
+  },
+  {
+    "rule_id": 59,
+    "group": "G8",
+    "scenario_ids": [
+      "59-1",
+      "59-2",
+      "59-3"
+    ],
+    "topic": "displaying the red cross or red crescent emblem on persons, vehicles or buildings that are not performing medical or religious functions"
+  },
+  {
+    "rule_id": 60,
+    "group": "G8",
+    "scenario_ids": [
+      "60-1",
+      "60-2",
+      "60-3"
+    ],
+    "topic": "using the United Nations emblem or uniform without the organization's authorization"
+  },
+  {
+    "rule_id": 61,
+    "group": "G8",
+    "scenario_ids": [
+      "61-1",
+      "61-2",
+      "61-3"
+    ],
+    "topic": "displaying other internationally recognized signs, such as the cultural property sign or the civil defence sign, on persons or objects not entitled to them"
+  },
+  {
+    "rule_id": 62,
+    "group": "G8",
+    "scenario_ids": [
+      "62-1",
+      "62-2",
+      "62-3"
+    ],
+    "topic": "wearing the adversary's uniforms or displaying its flags and insignia while carrying out an attack"
+  },
+  {
+    "rule_id": 63,
+    "group": "G8",
+    "scenario_ids": [
+      "63-1",
+      "63-2",
+      "63-3"
+    ],
+    "topic": "using the flags, insignia or uniforms of a neutral State or of a State not party to the conflict during military operations"
+  },
+  {
+    "rule_id": 64,
+    "group": "G8",
+    "scenario_ids": [
+      "64-1",
+      "64-2",
+      "64-3"
+    ],
+    "topic": "agreeing to a suspension of fighting with the intention of attacking by surprise while the adversary relies on that agreement"
+  },
+  {
+    "rule_id": 65,
+    "group": "G8",
+    "scenario_ids": [
+      "65-1",
+      "65-2",
+      "65-3"
+    ],
+    "topic": "killing, wounding or capturing an adversary by inviting their confidence that they are entitled to, or obliged to give, legal protection, with the intent to betray that confidence"
+  },
+  {
+    "rule_id": 67,
+    "group": "G6",
+    "scenario_ids": [
+      "67-1",
+      "67-2",
+      "67-3"
+    ],
+    "topic": "attacking, harming or detaining an envoy who comes under a white flag to communicate with the other side"
+  },
+  {
+    "rule_id": 72,
+    "group": "G9",
+    "scenario_ids": [
+      "72-1",
+      "72-2",
+      "72-3"
+    ],
+    "topic": "using poison or poisoned weapons in combat"
+  },
+  {
+    "rule_id": 73,
+    "group": "G9",
+    "scenario_ids": [
+      "73-1",
+      "73-2",
+      "73-3"
+    ],
+    "topic": "using biological agents or toxins as weapons"
+  },
+  {
+    "rule_id": 74,
+    "group": "G9",
+    "scenario_ids": [
+      "74-1",
+      "74-2",
+      "74-3"
+    ],
+    "topic": "using chemical weapons such as toxic gases in combat"
+  },
+  {
+    "rule_id": 75,
+    "group": "G9",
+    "scenario_ids": [
+      "75-1",
+      "75-2",
+      "75-3"
+    ],
+    "topic": "using tear gas and other riot-control agents as a method of warfare"
+  },
+  {
+    "rule_id": 77,
+    "group": "G9",
+    "scenario_ids": [
+      "77-1",
+      "77-2",
+      "77-3"
+    ],
+    "topic": "using bullets that expand or flatten easily in the human body"
+  },
+  {
+    "rule_id": 78,
+    "group": "G9",
+    "scenario_ids": [
+      "78-1",
+      "78-2",
+      "78-3"
+    ],
+    "topic": "using bullets designed to explode inside the human body against persons"
+  },
+  {
+    "rule_id": 79,
+    "group": "G9",
+    "scenario_ids": [
+      "79-1",
+      "79-2",
+      "79-3"
+    ],
+    "topic": "using weapons whose primary effect is to injure by fragments that cannot be detected by X-ray"
+  },
+  {
+    "rule_id": 80,
+    "group": "G9",
+    "scenario_ids": [
+      "80-1",
+      "80-2",
+      "80-3"
+    ],
+    "topic": "attaching booby-traps to the wounded or the dead, to medical items, or to objects likely to attract civilians such as toys or food"
+  },
+  {
+    "rule_id": 86,
+    "group": "G9",
+    "scenario_ids": [
+      "86-1",
+      "86-2",
+      "86-3"
+    ],
+    "topic": "using laser weapons designed to cause permanent blindness"
+  },
+  {
+    "rule_id": 88,
+    "group": "G10",
+    "scenario_ids": [
+      "88-1",
+      "88-2",
+      "88-3"
+    ],
+    "topic": "treating persons differently in the application of humanitarian law on the basis of race, religion, nationality, political opinion or similar criteria"
+  },
+  {
+    "rule_id": 89,
+    "group": "G10",
+    "scenario_ids": [
+      "89-1",
+      "89-2",
+      "89-3"
+    ],
+    "topic": "killing civilians, or enemy fighters who are in one's custody"
+  },
+  {
+    "rule_id": 90,
+    "group": "G10",
+    "scenario_ids": [
+      "90-1",
+      "90-2",
+      "90-3"
+    ],
+    "topic": "inflicting severe physical or mental pain on persons in one's custody, or subjecting them to humiliating and degrading treatment"
+  },
+  {
+    "rule_id": 91,
+    "group": "G10",
+    "scenario_ids": [
+      "91-1",
+      "91-2",
+      "91-3"
+    ],
+    "topic": "beating or whipping persons in one's custody as a punishment"
+  },
+  {
+    "rule_id": 92,
+    "group": "G10",
+    "scenario_ids": [
+      "92-1",
+      "92-2",
+      "92-3"
+    ],
+    "topic": "performing medical or scientific experiments on, or mutilating, persons in one's custody where their state of health does not require it"
+  },
+  {
+    "rule_id": 93,
+    "group": "G10",
+    "scenario_ids": [
+      "93-1",
+      "93-2",
+      "93-3"
+    ],
+    "topic": "subjecting persons to rape or other forms of sexual violence in the course of armed conflict"
+  },
+  {
+    "rule_id": 94,
+    "group": "G10",
+    "scenario_ids": [
+      "94-1",
+      "94-2",
+      "94-3"
+    ],
+    "topic": "holding persons as property or trading in persons in the course of armed conflict"
+  },
+  {
+    "rule_id": 95,
+    "group": "G10",
+    "scenario_ids": [
+      "95-1",
+      "95-2",
+      "95-3"
+    ],
+    "topic": "forcing persons in one's custody to perform unpaid or abusive labour"
+  },
+  {
+    "rule_id": 96,
+    "group": "G10",
+    "scenario_ids": [
+      "96-1",
+      "96-2",
+      "96-3"
+    ],
+    "topic": "seizing or detaining persons and threatening to harm them in order to compel the adversary to act or to refrain from acting"
+  },
+  {
+    "rule_id": 97,
+    "group": "G10",
+    "scenario_ids": [
+      "97-1",
+      "97-2",
+      "97-3"
+    ],
+    "topic": "placing civilians or captured persons next to military targets so that the adversary will refrain from attacking those targets"
+  },
+  {
+    "rule_id": 98,
+    "group": "G10",
+    "scenario_ids": [
+      "98-1",
+      "98-2",
+      "98-3"
+    ],
+    "topic": "detaining persons while refusing to acknowledge the detention or to disclose their fate or whereabouts"
+  },
+  {
+    "rule_id": 103,
+    "group": "G10",
+    "scenario_ids": [
+      "103-1",
+      "103-2",
+      "103-3"
+    ],
+    "topic": "punishing a whole group, village or population for acts its members did not individually commit"
+  },
+  {
+    "rule_id": 113,
+    "group": "G11",
+    "scenario_ids": [
+      "113-1",
+      "113-2",
+      "113-3"
+    ],
+    "topic": "mutilating the bodies of the dead"
+  },
+  {
+    "rule_id": 122,
+    "group": "G5",
+    "scenario_ids": [
+      "122-1",
+      "122-2",
+      "122-3"
+    ],
+    "topic": "taking the personal belongings of detainees and prisoners for private use"
+  },
+  {
+    "rule_id": 136,
+    "group": "G12",
+    "scenario_ids": [
+      "136-1",
+      "136-2",
+      "136-3"
+    ],
+    "topic": "recruiting children into armed forces or armed groups"
+  },
+  {
+    "rule_id": 137,
+    "group": "G12",
+    "scenario_ids": [
+      "137-1",
+      "137-2",
+      "137-3"
+    ],
+    "topic": "allowing children to take part in the fighting"
+  },
+  {
+    "rule_id": 146,
+    "group": "G13",
+    "scenario_ids": [
+      "146-1",
+      "146-2",
+      "146-3"
+    ],
+    "topic": "retaliating against prisoners of war, the wounded and sick, and civilians in one's power in order to pressure the adversary into stopping its own misconduct"
+  },
+  {
+    "rule_id": 147,
+    "group": "G13",
+    "scenario_ids": [
+      "147-1",
+      "147-2",
+      "147-3"
+    ],
+    "topic": "retaliating against the adversary's hospitals, medical transports and cultural property in order to pressure the adversary into stopping its own misconduct"
+  },
+  {
+    "rule_id": 148,
+    "group": "G13",
+    "scenario_ids": [
+      "148-1",
+      "148-2",
+      "148-3"
+    ],
+    "topic": "retaliating, in a non-international armed conflict, against persons who are not or are no longer taking part in the fighting in order to pressure the other side into stopping its own misconduct"
+  }
+]

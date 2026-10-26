@@ -1,0 +1,10 @@
+numpy>=1.26
+pyyaml>=6.0
+# serving/ and dpo/ (GPU)
+torch
+transformers>=4.51
+peft
+fastapi
+uvicorn
+pydantic>=2
+tqdm

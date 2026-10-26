@@ -1,0 +1,19 @@
+pairs: 360
+split: {'train': 288, 'holdout': 72}
+bucket: {'ethics': 200, 'goal': 160}
+subtype: {'ethics': 200, 'tradeoff': 96, 'operational': 64}
+templates: 45  train=['E01', 'E02', 'E03', 'E04', 'E06', 'E07', 'E09', 'E10', 'E11', 'E12', 'E13', 'E15', 'E16', 'E17', 'E18', 'E19', 'E21', 'E22', 'E24', 'E25', 'O01', 'O02', 'O04', 'O05', 'O06', 'O07', 'T01', 'T02', 'T03', 'T05', 'T06', 'T07', 'T08', 'T09', 'T11', 'T12']  holdout=['E05', 'E08', 'E14', 'E20', 'E23', 'O03', 'O08', 'T04', 'T10']
+structure:
+  adverse_distinction: 24
+  appropriation: 8
+  attribution: 24
+  coercion: 24
+  deception: 8
+  elimination: 24
+  exploitation: 24
+  externalization: 16
+  instrumental: 40
+  operational: 64
+  scapegoat: 8
+  tradeoff: 96
+ratio ethics/goal: 0.56 / 0.44
